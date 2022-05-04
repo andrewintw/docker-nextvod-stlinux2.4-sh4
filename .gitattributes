@@ -1,0 +1,8 @@
+nextvod-stlinux2.4-sh4.tar.part07 filter=lfs diff=lfs merge=lfs -text
+nextvod-stlinux2.4-sh4.tar.part00 filter=lfs diff=lfs merge=lfs -text
+nextvod-stlinux2.4-sh4.tar.part01 filter=lfs diff=lfs merge=lfs -text
+nextvod-stlinux2.4-sh4.tar.part02 filter=lfs diff=lfs merge=lfs -text
+nextvod-stlinux2.4-sh4.tar.part03 filter=lfs diff=lfs merge=lfs -text
+nextvod-stlinux2.4-sh4.tar.part04 filter=lfs diff=lfs merge=lfs -text
+nextvod-stlinux2.4-sh4.tar.part05 filter=lfs diff=lfs merge=lfs -text
+nextvod-stlinux2.4-sh4.tar.part06 filter=lfs diff=lfs merge=lfs -text
